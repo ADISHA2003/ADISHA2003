@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADISHA2003
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning something
+- 🌱 Learning never stops
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/aditya-sharma-334528296) or [X](https://twitter.com/AdityaS47782205).
 - 😄 Pronouns: He/Him
