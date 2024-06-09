@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityas47782205" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="adityas47782205" height="30" width="40" /></a>
+<a href="https://twitter.com/adityas47782205" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="adityas47782205" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-sharma-334528296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sharma-334528296" height="30" width="40" /></a>
 <a href="https://instagram.com/adi_sharma_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adi_sharma_2003" height="30" width="40" /></a>
 </p>
