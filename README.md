@@ -5,7 +5,7 @@ I'm an aspiring developer passionate about continuous learning and project colla
 
 ## Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-adityas47782205-blue?style=flat-square&logo=twitter)](https://twitter.com/adityas47782205)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--sharma-334528296-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-sharma-334528296)
+[![LinkedIn](https://www.vhv.rs/file/max/8/80784_linkedin-logo-white-png.png)](https://linkedin.com/in/aditya-sharma-334528296)
 [![Instagram](https://img.shields.io/badge/Instagram-adi__sharma__2003-blue?style=flat-square&logo=instagram)](https://instagram.com/adi_sharma_2003)
 
 ## Languages and Tools
