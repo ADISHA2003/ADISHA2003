@@ -8,13 +8,13 @@ I am a software developer with foundation in web technologies. I enjoy creating 
 In my free time, I love exploring new technologies, contributing to open-source projects, and staying up-to-date with the latest trends in the tech industry.
 </p>
 
-## Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-adisbio-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://adisbio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--sharma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-sharma-334528296)
-
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-adisbio-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://adisbio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--sharma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-sharma-334528296)
