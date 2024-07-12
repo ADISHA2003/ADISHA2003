@@ -2,10 +2,10 @@
 
 ## About Me
 <p>
-I am a software developer with foundation in web technologies. I enjoy creating user-friendly and engaging web applications that solve real-world problems.
+I am a Web developer with foundation in web technologies. I enjoy creating user-friendly and engaging web applications.
 </p>
 <p>
-In my free time, I love exploring new technologies, contributing to open-source projects, and staying up-to-date with the latest trends in the tech industry.
+In my free time, I love exploring new technologies, and staying up-to-date with the latest trends in the tech industry.
 </p>
 
 ## Languages and Tools
