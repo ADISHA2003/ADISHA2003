@@ -17,7 +17,7 @@ In my free time, I love exploring new technologies, and staying up-to-date with 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-deepskyblue?style=flat-square&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-green?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VScode-blueviolet?style=flat-square&logo=code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Certifications
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ADISHA2003/javascript-algorithms-and-data-structures-v8)
