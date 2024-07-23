@@ -28,3 +28,5 @@ In my free time, I love exploring new technologies, and staying up-to-date with 
 ## Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-adisbio-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://adisbio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--sharma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-sharma-334528296)
+- Email: [adityasharma56697@gmail.com](mailto:adityasharma56697@gmail.com)
+- Phone: [9289665096](tel:9289665096)
