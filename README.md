@@ -2,7 +2,10 @@
 
 ## About Me
 <p>
-I am a Web developer with foundation in web technologies. I enjoy creating user-friendly and engaging web applications.
+Aspiring Web Developer | Proficient in HTML, CSS, JavaScript, and Figma | Learning React.
+</p>
+<p>
+I enjoy creating user-friendly and engaging web applications.
 </p>
 <p>
 In my free time, I love exploring new technologies, and staying up-to-date with the latest trends in the tech industry.
