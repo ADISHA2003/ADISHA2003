@@ -18,6 +18,9 @@ In my free time, I love exploring new technologies, and staying up-to-date with 
 ![Figma](https://img.shields.io/badge/-Figma-green?style=flat-square&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/-React-deepskyblue?style=flat-square&logo=react&logoColor=white)
 
+## Certification
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ADISHA2003/javascript-algorithms-and-data-structures-v8)
+
 ## Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-adisbio-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://adisbio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--sharma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-sharma-334528296)
