@@ -18,12 +18,10 @@ In my free time, I love exploring new technologies, and staying up-to-date with 
 ![Figma](https://img.shields.io/badge/-Figma-green?style=flat-square&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/-React-deepskyblue?style=flat-square&logo=react&logoColor=white)
 
-## Certification
-<p>
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ADISHA2003/javascript-algorithms-and-data-structures-v8)
-</p>
-[Accenture North America Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/NqLZqrXRDvfkqHRKG_Accenture%20North%20America_KXoqSiGiAYJSZDtN9_1705326990555_completion_certificate.pdf)
-[Google Cloud Skills Boost Badge](https://www.cloudskillsboost.google/public_profiles/0b9c12e8-4a94-4d00-ae7e-d456c2ea3c92/badges/6969003?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+## Certifications
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ADISHA2003/javascript-algorithms-and-data-structures-v8)
+- [Accenture North America Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/NqLZqrXRDvfkqHRKG_Accenture%20North%20America_KXoqSiGiAYJSZDtN9_1705326990555_completion_certificate.pdf)
+- [Google Cloud Skills Boost Badge](https://www.cloudskillsboost.google/public_profiles/0b9c12e8-4a94-4d00-ae7e-d456c2ea3c92/badges/6969003?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
 ## Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-adisbio-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://adisbio.vercel.app)
