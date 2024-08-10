@@ -26,6 +26,5 @@ In my free time, I love exploring new technologies, and staying up-to-date with 
 - [Google Cloud Skills Boost Badge 2 (Introduction to LLMs)](https://www.cloudskillsboost.google/public_profiles/0b9c12e8-4a94-4d00-ae7e-d456c2ea3c92/badges/7171997?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
 ## Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-adisbio-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://adisbio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--sharma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-sharma-334528296)
 - Email: [adityasharma56697@gmail.com](mailto:adityasharma56697@gmail.com)
