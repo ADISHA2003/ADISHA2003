@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-Aspiring Web Developer | Proficient in HTML, CSS, JavaScript, and Figma | Learning React
+Aspiring Web Developer | Proficient in HTML, CSS, JavaScript, and Figma | Learning React and Node
 </p>
 <p>
 I enjoy creating user-friendly and engaging web applications.
