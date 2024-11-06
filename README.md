@@ -2,13 +2,7 @@
 
 ## About Me
 <p>
-Aspiring Web Developer | Proficient in HTML, CSS, JavaScript, and Figma | Learning React and Node
-</p>
-<p>
-I enjoy creating user-friendly and engaging web applications.
-</p>
-<p>
-In my free time, I love exploring new technologies, and staying up-to-date with the latest trends in the tech industry.
+Web developer with a passion for creating engaging, responsive websites. Proficient in HTML, CSS, JavaScript, React, and Node.js, I thrive on transforming designs into functional digital experiences. My experience as a Frontend Developer Intern at Realezi, alongside certifications in JavaScript Algorithms, Product Design, and Generative AI, has strengthened my technical and problem-solving skills. Always eager to learn and grow, I’m excited to connect with like-minded professionals and contribute to innovative projects.
 </p>
 
 ## Languages and Tools
