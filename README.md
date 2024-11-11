@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-Web developer with a passion for creating engaging, responsive websites. Proficient in HTML, CSS, JavaScript, React, and Node.js, I thrive on transforming designs into functional digital experiences. My experience as a Frontend Developer Intern at Realezi, alongside certifications in JavaScript Algorithms, Product Design, and Generative AI, has strengthened my technical and problem-solving skills. Always eager to learn and grow, I’m excited to connect with like-minded professionals and contribute to innovative projects.
+A Self-taught Web developer with a passion for creating engaging, responsive websites. Proficient in HTML, CSS, JavaScript, React, and Node.js, I thrive on transforming designs into functional digital experiences. My experience as a Frontend Developer, alongside certifications in JavaScript Algorithms, Product Design, and Generative AI, has strengthened my technical and problem-solving skills. Always eager to learn and grow, I’m excited to connect with like-minded professionals and contribute to innovative projects.
 </p>
 
 ## Languages and Tools
