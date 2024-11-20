@@ -11,8 +11,8 @@ A Self-taught Web developer with a passion for creating engaging, responsive web
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-007bff?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-green?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Certifications
