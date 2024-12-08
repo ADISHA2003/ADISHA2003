@@ -5,6 +5,10 @@
 A Self-taught Web developer with a passion for creating engaging, responsive websites. Proficient in HTML, CSS, JavaScript, React, and Node.js, I thrive on transforming designs into functional digital experiences. My experience as a Frontend Developer, alongside certifications in JavaScript Algorithms, Product Design, and Generative AI, has strengthened my technical and problem-solving skills. Always eager to learn and grow, I’m excited to connect with like-minded professionals and contribute to innovative projects.
 </p>
 
+## Highlights
+- **Attendee, GDG Noida DevFest 2024**  
+  Participated in the flagship event organized by Google Developer Groups. Explored insights into **AI**, **Responsible AI**, and **Large Language Models (LLMs)**, while networking with tech enthusiasts and industry experts. This event enhanced my knowledge of emerging technologies and inspired me to innovate further in the field of AI and web development.
+
 ## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,4 +28,4 @@ A Self-taught Web developer with a passion for creating engaging, responsive web
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--sharma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-sharma-334528296)  
-Portfolio: [Custom-web-solutions.vercel.app](https://custom-web-solutions.vercel.app)  
+Portfolio: [Custom-web-solutions.vercel.app](https://custom-web-solutions.vercel.app)
